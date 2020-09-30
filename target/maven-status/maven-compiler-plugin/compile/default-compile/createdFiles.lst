@@ -1,0 +1,8 @@
+com\MMT\testbases\TestBase.class
+com\MMT\pages\HotelSelect.class
+com\MMT\util\TestUtil.class
+com\MMT\pages\HotelBook.class
+com\MMT\pages\HotelPayment.class
+com\MMT\testdata\Xls_Reader.class
+com\MMT\pages\FlightSearch.class
+com\MMT\pages\HotelSearch.class
